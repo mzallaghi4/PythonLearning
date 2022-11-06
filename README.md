@@ -12,9 +12,19 @@ Table of contents
 <!--te-->
 
 ## Course Description
+we are
 
-Whether you’re a softwar
-# Python Basics
+## Chapter List
+=================
+### 1.Install Python and IDE
+Here we will learn basics of Python!
+
+
+
+
+
+
+### 1.Python Basics
 Here we will learn basics of Python!
 
 ## About the author
