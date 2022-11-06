@@ -11,10 +11,11 @@ Table of contents
 * [About the Author](#about-the-author)
 <!--te-->
 
-## Book Description
+## Course Description
 
 Whether you’re a softwar
-
+# Python Basics
+Here we will learn basics of Python!
 
 ## About the author
 [**@mzallaghi4**](https://twitter.com/MehdiZallaghi), A Maths and AI researcher 
