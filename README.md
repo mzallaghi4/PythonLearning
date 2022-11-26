@@ -25,7 +25,6 @@ we are
 
 4-Install the required python packages:
 
-      Start a terminal
       pip install numpy
       pip install scipy
       pip install matplotlib
