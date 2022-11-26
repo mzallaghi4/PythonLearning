@@ -7,7 +7,7 @@ Table of contents
 <!--ts-->
 * [Course Description](#course-description)
 * [Environment](#environment)
-* [Chapter List](#chapter-list)
+* [Content List](#content-list)
 * [About the Author](#about-the-author)
 <!--te-->
 
@@ -32,18 +32,18 @@ we are
 
 
 
-## Chapter List
+## Content List
 =================
-### 1.Install Python and IDE
-Here we will learn basics of Python!
+### Python Lecture Notes
+ Python Basics
+ Python Libraries
 
 
-
-
-
-
-### 1.Python Basics
-Here we will learn basics of Python!
+### Python Tutorial Notebooks
+ Python Basics
+ Numpy
+ Scipy
+ Matplotlib
 
 
 
