@@ -16,11 +16,15 @@ we are
 
 ## Environment
 =================
-# Set up Python along with the IDE VS Code
+### Set up Python along with the IDE VS Code
 1-Install Python for your operating system from  https://www.python.org/downloads/
+
 2-Install VS Code from https://code.visualstudio.com/download 
+
 3-Install the Python Extension for VS Code
+
 4-Install the required python packages:
+
       Start a terminal
       pip install numpy
       pip install scipy
