@@ -1,5 +1,6 @@
 # Practical Python Learning
-Learn Python Programming Step by Step
+Learn Python Programming Step by Step.
+Python course with hands-on exercises and solutions.
 
 Table of contents
 =================
@@ -12,7 +13,18 @@ Table of contents
 <!--te-->
 
 ## Course Description
-we are
+
+This Python course is for beginners and will introduce fundamental programming concepts of Python programming language.
+--Hello, World!
+--Data Types and Variables
+--Operators
+--String Formatting and Operations
+--Conditions and Loops
+--Functions
+--Classes and Objects
+--Dictionaries
+
+
 
 ## Environment
 =================
@@ -45,6 +57,11 @@ we are
  Scipy
  Matplotlib
 
+### Python Tutorial Notebooks
+ Python Basics
+ Numpy
+ Scipy
+ Matplotlib
 
 
 ## About the author
