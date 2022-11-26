@@ -7,7 +7,7 @@ Table of contents
 <!--ts-->
 * [Course Description](#course-description)
 * [Environment](#environment)
-* [Chapter List] (#chapter-list)
+* [Chapter List](#chapter-list)
 * [About the Author](#about-the-author)
 <!--te-->
 
