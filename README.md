@@ -16,13 +16,21 @@ Table of contents
 
 This Python course is for beginners and will introduce fundamental programming concepts of Python programming language.
 --Hello, World!
+
 --Data Types and Variables
+
 --Operators
+
 --String Formatting and Operations
+
 --Conditions and Loops
+
 --Functions
+
 --Classes and Objects
+
 --Dictionaries
+
 
 
 
