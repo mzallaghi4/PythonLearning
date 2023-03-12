@@ -19,5 +19,5 @@
     - [VS Code](#VS-Code)
     - [Jupyter Notebook](#Jupyter-Notebook)
  - [Part 2](#part-2)
-  - [Python Syntax](#Execute-Python-Syntax)
+   - [Python Syntax](#Execute-Python-Syntax)
     - [Comments](#Comments)
